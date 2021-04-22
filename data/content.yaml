@@ -1,0 +1,106 @@
+BasicInfo:
+  FirstName: Daan
+  LastName: Wassink
+  Photo: img/avatar2.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +316 28715004
+    - Icon: fas fa-envelope
+      Info: daanwassink@live.nl
+    - Icon: fas fa-globe
+      Info: linkedin.com/in/daan-wassink/
+    - Icon: fas fa-map-marker-alt
+      Info: Netherlands, Groningen
+
+Profile: Hi there! My name is Daan Wassink, I am 24 years old and live in Groningen. I would describe myself as a ...
+
+
+Experience:
+  - Employer: GING&Juice
+    Place: Deventer
+    Positions:
+      - Title: Owner
+        Date: Jun 2020 - Jan 2021
+        Details:
+          - Started my own company for the sales of ginger shots
+        Badges: ['Entrepreneurship']
+  - Employer: T-Mobile
+    Place: Deventer
+    Positions:
+      - Title: Sales Advisor
+        Date: Mar 2018 - Oct 2019
+        Details:
+          - ....
+        Badges: ['?']
+  - Employer: Drukwerkdeal
+    Place: Deventer
+    Positions:
+      - Title: Internet Marketing Intern
+        Date: Sep 2016 - Jan 2017
+        Details:
+          - Wrote a action plan for Drukwerkdeal.nl to create workflow and insight at the affiliate channel
+        Badges: ['Affiliate Marketing', 'Internship']
+  - Employer: WDeliver
+    Place: Deventer
+    Positions:
+      - Title: Deliverer
+        Date: May 2016 - Sep 2017
+        Details:
+          - Deliverer of large household electronic products, on behalf of the MediaMarkt
+        Badges: ['Deliverer', 'Courier']
+  - Employer: Plus Supermarkets
+    Place: Schalkhaar
+    Positions:
+      - Title: Stock Filler
+        Date: Dec 2011 - Mar 2016
+        Details:
+          - Together with a team of stock fillers, we made sure that the supermarket was stocked every evening
+        Badges: ['Retail']
+
+Education:
+  - Course: MSc Management Accounting & Control
+    Place: Rijksuniversiteit Groningen
+    Date: Sep 2019 - Present
+    Details: Specialised in .....
+
+  - Course: Minor Business
+    Place: Binus University (International), Jakarta
+    Date: Sep 2017 - Feb 2018
+    Details: Specialised in .....
+
+  - Course: Bachelor Commercial Economics
+    Place: Hogeschool Saxion Deventer
+    Date: Sep 2014 - Mar 2019
+    Details: Specialised in Sales
+
+Skills:
+  - Family: Data Analysis
+    Items:
+      - Tableau
+      - Google BigQuery (SQL)
+      - Google Analytics
+  - Family: Programming
+    Items:
+      - Python
+      - Jupyter Notebook
+      - R Studio
+      - HTML
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Github
+
+Languages:
+  - Name: Dutch
+    Level: Native
+  - Name: English
+    Level: Professional
+  - Name: Spanish
+    Level: Basic
+
+Interests:
+  - Soccer
+  - Fitness
+  - Friends
+  - Music
+  - Gaming
